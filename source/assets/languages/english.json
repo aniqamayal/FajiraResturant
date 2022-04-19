@@ -1,0 +1,12 @@
+{
+    "----------------": "Testing screen",
+    "hello": "Hello React Native!",
+    "app_name": "Package2Go",
+    "-------------------": "login",
+    "Login": "Login",
+    "Login_Session": "Please Login to create a session",
+    "Email":"* Email",
+    "Password":"* Password",
+    "FPass":"Forget Passowrd",
+    "RHere":"Reset Here"
+}

@@ -1,0 +1,17 @@
+{
+    "mode": "light",
+    "background": "#FFFFFF",
+    "secondaryBG": "#F2F2F2",
+    "primaryText":"#FCCE03",
+    "icon":"#000",
+    "shadowTextClr":"#000",
+    "iconsBG": "#C4C4C4",
+    "dimText": "#c4c4c4",
+    "dimBackground": "#f9f9f9",
+    "text": "#202129",
+    "borderColor": "#000",
+    "secondaryText": "#929292",
+    "content": "dark-content",
+    "bottomNavColor": "#353535",
+    "shadowBG":"#fff"
+}
